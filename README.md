@@ -45,7 +45,6 @@ ongoDB, Express.js, React, Node.js)
 ## 🔥 Core Competencies
 
 - 🎯 **Full-Stack Development** - End-to-end application development
-- 🎯 **MERN Stack Expertise** - MongoDB, Express, React, Node.js
 - 🎯 **Modern Frontend** - React, Next.js, Tailwind CSS
 - 🎯 **Backend Solutions** - RESTful APIs, Database Design
 - 🎯 **Problem Solving** - Strong DSA foundation
