@@ -41,13 +41,3 @@ ongoDB, Express.js, React, Node.js)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-zahid&layout=compact&theme=radical&cache_seconds=1800
 )
-
-
-
-## 📫 Let's Connect!
-
-- 💼 Open to collaboration on exciting projects
-- 🤝 Always interested in connecting with fellow developers
-- 📧 Feel free to reach out for web development discussions
-
----
