@@ -42,32 +42,7 @@ ongoDB, Express.js, React, Node.js)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-zahid&layout=compact&theme=radical&cache_seconds=1800
 )
 
-## 🔥 Core Competencies
 
-- 🎯 **Full-Stack Development** - End-to-end application development
-- 🎯 **Modern Frontend** - React, Next.js, Tailwind CSS
-- 🎯 **Backend Solutions** - RESTful APIs, Database Design
-- 🎯 **Problem Solving** - Strong DSA foundation
-
-## 🌟 What I Build
-
-- Interactive React applications with modern UI/UX
-- Full-stack web solutions using MERN stack
-- Responsive websites with Tailwind CSS
-- RESTful APIs and backend services
-- Database-driven applications
-
-## 🚀 Featured Technologies
-
-```javascript
-const hashirZahid = {
-    frontend: ['React.js', 'Next.js', 'JavaScript', 'Tailwind CSS'],
-    backend: ['Node.js', 'Express.js', 'ASP.NET', 'Laravel'],
-    databases: ['MongoDB', 'MySQL'],
-    tools: ['XAMPP', 'Git', 'VS Code', 'Visual Studio'],
-    concepts: ['DSA', 'RESTful APIs', 'Responsive Design']
-};
-```
 
 ## 📫 Let's Connect!
 
