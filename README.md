@@ -16,11 +16,3 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer enthusiast, 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
-
-## 📊 GitHub Stats
-
-![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashir-zahid&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800
-)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-zahid&layout=compact&theme=radical&cache_seconds=1800
-)
